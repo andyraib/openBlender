@@ -11,9 +11,7 @@ This is a test OpenBlender
 ```
 virtualenv -p python3.6 env
 source env/bin/activate
-pip install jupyter
-pip install matplotlib
-pip install OpenBlender
+pip install -r requirements.txt
 
 ```
 
