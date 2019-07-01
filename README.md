@@ -17,3 +17,7 @@ pip install OpenBlender
 
 ```
 
+# open jupyper
+
+jupyter notebook 
+
